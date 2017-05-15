@@ -1,0 +1,15 @@
+appdirs==1.4.3
+cycler==0.10.0
+matplotlib==2.0.2
+nltk==3.2.2
+numpy==1.12.1
+oauthlib==2.0.2
+packaging==16.8
+pyparsing==2.2.0
+python-dateutil==2.6.0
+pytz==2017.2
+requests==2.14.2
+requests-oauthlib==0.8.0
+six==1.10.0
+textblob==0.12.0
+tweepy==3.5.0
